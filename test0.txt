@@ -1,2 +1,7 @@
 line1
+<<<<<<< HEAD
 line2 is added!!!
+=======
+line 2 added
+line 3 is added!
+>>>>>>> b1
